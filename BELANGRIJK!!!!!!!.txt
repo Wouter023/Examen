@@ -1,0 +1,22 @@
+illigale info goed bewaren!!!
+
+normaliseren
+
+applicatie in php
+
+tafel reserveersysteem
+kaart voor gasten
+kaart voor de kok en barman
+
+Account php bewaren op goede plek voor virtueel machine
+
+Reserveren: naam, email
+Gegevens achteraf bewerken/verwijderen
+
+functie maken als sql meer dan 1 keer word gebruikt
+
+lolphp
+
+joins doornemen!!!
+
+
